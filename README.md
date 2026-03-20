@@ -41,13 +41,6 @@ docker-compose up --build
 | `Who likes assembly anw ?` | [writeup.md](Who%20likes%20assembly%20anw%20%3F/writeup.md) | [solve.py](Who%20likes%20assembly%20anw%20%3F/solve.py) | Includes `libseccomp` |
 | `print(xxx);` | [writeup.md](print(xxx)%3B/writeup.md) | — | Contains multiple sub-challenges |
 
-### `print(xxx);` sub-challenges
-
-| Sub-challenge | Writeup | Solve |
-|---|---|---|
-| `printf(Hello);` | [writeup.md](print(xxx)%3B/%20printf(Hello)%3B%20/writeup.md) | [solve.py](print(xxx)%3B/%20printf(Hello)%3B%20/solve.py) |
-| `printf(Revenge)` | [writeup.md](print(xxx)%3B/%20printf(Revenge)/writeup.md) | [solve.py](print(xxx)%3B/%20printf(Revenge)/solve.py) |
-| `printf(RevengeRevenge)` | [writeup.md](print(xxx)%3B/%20printf(RevengeRevenge)/writeup.md) | [solve.py](print(xxx)%3B/%20printf(RevengeRevenge)/solve.py) |
 
 ## Notes
 
